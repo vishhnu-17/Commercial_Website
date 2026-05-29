@@ -1,3 +1,5 @@
+# Ex02 Commercial Website
+
 ## Date:29-5-26
 
 ## AIM
@@ -222,10 +224,9 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
-
-```css
-## CSS
 ```
+## CSS
+```css
 
 * {
     margin: 0;
